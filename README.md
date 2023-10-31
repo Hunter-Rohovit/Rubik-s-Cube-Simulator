@@ -3,3 +3,6 @@ Here is my Rubik's Cube Solver and Simulator! This is a project that started for
 
 ## 3D Visualization
 ![3DRubiksCube](https://github.com/Hunter-Rohovit/Rubik-s-Cube-Simulator/assets/105554281/d1e9562a-e22d-4be7-a98c-f0ecc1959036)
+
+## 2D Visualization
+

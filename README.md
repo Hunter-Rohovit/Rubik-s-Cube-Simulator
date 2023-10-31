@@ -5,4 +5,4 @@ Here is my Rubik's Cube Solver and Simulator! This is a project that started for
 ![3DRubiksCube](https://github.com/Hunter-Rohovit/Rubik-s-Cube-Simulator/assets/105554281/d1e9562a-e22d-4be7-a98c-f0ecc1959036)
 
 ## 2D Visualization
-![2DSimulation](https://github.com/Hunter-Rohovit/Rubik-s-Cube-Simulator/assets/105554281/401c2ba3-a6f7-49d8-ad6d-6e58d3937c41)
+![2DSimulation](https://github.com/Hunter-Rohovit/Rubik-s-Cube-Simulator/assets/105554281/e374ed21-0d6f-4811-bd73-dce20056fcb8)
